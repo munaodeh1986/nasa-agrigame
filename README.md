@@ -5,7 +5,7 @@ NASA AgriGame transforms complex satellite data into an engaging multiplayer far
 🌾 **Grow Smarter with NASA Data** 🛰️
 
 ## Live Demo
-🎮 **Play Now:** [https://munaodeh1986.github.io/nasa-agrigame/](https://munaodeh1986.github.io/nasa-agrigame/)
+🎮 **Play Now:** [https://munaodeh1986.github.io/nasa-agrigame/](https://munaodeh1986.github.io/nasa-agrigame/index.html)
 
 ## Overview
 NASA AgriGame transforms complex satellite data into an engaging multiplayer farming simulator that teaches sustainable agriculture using real NASA datasets.
